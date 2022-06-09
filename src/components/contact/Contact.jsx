@@ -44,7 +44,7 @@ const Contact = () => {
                     </div>
                     <div className="c-info-item">
                         <img src={linkedin} alt="" className="c-icon" />
-                        <a href="https://www.linkedin.com/in/elian-baque-040a651b8/">Linkedin</a>
+                        <a href="https://www.linkedin.com/in/elianbaque/">Linkedin</a>
                     </div>
                     <div className="c-info-item">
                         <img src={gmail} alt="" className="c-icon" />
